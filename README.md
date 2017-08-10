@@ -2,7 +2,7 @@ RQuote
 
 Simple 'React' app for showing random programming quotes
 
-#Getting Started
+# Getting Started
 
 Simply clone this repo and process with following:
 
@@ -10,4 +10,4 @@ Simply clone this repo and process with following:
 > npm start
 API
 
-RQuote uses Programming Quote Api
+# RQuote uses Programming Quote Api

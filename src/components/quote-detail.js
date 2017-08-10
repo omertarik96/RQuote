@@ -9,8 +9,10 @@ const QuoteDetail = ({quote}) => {
 
     return (
         <div className="quote-detail"> 
-            <h1> {quote.quote} </h1>
-            <p> {quote.author} </p>
+            <div className="box">
+                <h1> {quote.quote} </h1>
+                <p> -{quote.author} </p>
+            </div>
         </div>
     )
 }
